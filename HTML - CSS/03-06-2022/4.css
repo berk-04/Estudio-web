@@ -1,0 +1,80 @@
+/*BODY*/
+
+body{
+    background-image: url(https://blog.prodamy.com/wp-content/uploads/2021/06/online-window-reoopen.jpg);
+}
+
+/*HEADER*/
+
+h1{
+    font-family:'Courier New';
+    text-align:center;
+    background-color: rgb(0, 129, 109);
+    border-color: rgb(0, 129, 109);
+    color:white;
+    max-width: 80%;
+    margin-right:10%;
+    margin-left: 10%;
+    margin-top: 0;
+    margin-bottom: 13%;
+}
+
+/*MAIN*/
+
+table{
+    background-color: rgb(40, 151, 135);
+    text-align:center;
+    font-family:'Courier New';
+    font-size:20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width:80%;
+}
+
+thead{
+    margin:5px;
+    background-color: rgb(0, 129, 109);
+    color:white;
+    border-color: rgb(0, 129, 109);
+}
+
+.td_horas{
+    margin:5px;
+    border-color: rgb(0, 129, 109);
+    background-color: rgb(0, 129, 109);
+    color:white;
+}
+
+td{
+    color:white;
+
+}
+
+/*FOOTER*/
+
+p{
+    text-align:center;
+    font-family:'Courier New';
+    font-size:15px;
+    background-color: rgb(0, 129, 109);
+    border-color: rgb(0, 129, 109);
+    color:white;
+    max-width: 80%;
+    margin-top:13%;
+    margin-right:10%;
+    margin-left: 10%; 
+}
+
+a:visited{
+    color:black;
+}
+
+a:hover{
+    color:rgb(155, 155, 238);
+}
+
+a:active{
+    color:white;
+}
