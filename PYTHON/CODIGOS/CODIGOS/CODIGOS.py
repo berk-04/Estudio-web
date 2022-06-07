@@ -37,19 +37,43 @@
 #     n = n - 1
 
 
-list=["pera",5,7]
+# list=["pera",5,7]
 
-x,y,z = list
+# x,y,z = list
 
-print(x)
-print(y)
-print(z)
+# print(x)
+# print(y)
+# print(z)
 
 
-def myfunc():
-  global x
-  x = "fantastic"
+# def myfunc():
+#   global x
+#   x = "fantastic"
 
-myfunc()
+# myfunc()
 
-print("Python is " + x)
+# print("Python is " + x)
+
+# for x in "banana":
+#   print(x)
+
+# txt = "The best things in life are free!"
+# print("free" in txt)
+
+# b = "Hello, World!"
+# print(b[:5])
+
+# b = "Hello, World!"
+# print(b[2:])
+
+
+# n="yo que me alegro"
+
+# m="hola que pasa chavales, todo bien, todo correcto y {}"
+
+# print(m.format(n))
+
+
+a="apa hola\raasas"
+
+print(a)

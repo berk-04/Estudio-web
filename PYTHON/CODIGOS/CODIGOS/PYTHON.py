@@ -3,10 +3,11 @@ print("Hola mundo")
 #Tipos de datos
 
 a = 5        # int = entero
-b ="Hola"    # str = string-cadena
+b ="Hola"    # str = string-cadena. Nota: Los strings son matrices de caracteres
 c = 3.12     # float = flotante-decimal
 d = True     # bool = booleano- true o false
 
+#https://www.w3schools.com/python/python_datatypes.asp
 
 #Operadores
 
@@ -181,6 +182,8 @@ saludo="ama"
 print(saludo.count("a"))   #Cuenta cuantos caracteres hay en una cadena
 
 print(saludo.find("a"))    #Busca la posicion primera de un caracter en una cadena
+
+#.strip                    #Remueve cualquier espacio en el principio y en el final de cualquier cadena
 
 #Imagen en whatsapp
 
