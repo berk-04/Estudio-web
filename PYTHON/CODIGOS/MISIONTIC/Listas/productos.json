@@ -1,0 +1,19 @@
+{
+    "Producto":[
+        {
+            "Nombre":"Lapicero",
+            "Precio":1000,
+            "Cantidad":5
+        },
+        {
+            "Nombre":"Lapiz",
+            "Precio":800,
+            "Cantidad":3
+        },
+        {
+            "Nombre":"Cuaderno",
+            "Precio":2600,
+            "Cantidad":4
+        }
+    ]
+}
